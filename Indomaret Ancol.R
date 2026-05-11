@@ -13,3 +13,7 @@ boxplot(mtcars$mpg)
 plot(mtcars$mpg)
 hist(mtcars$mpg)
 >>>>>>> branch-baru
+b <- month.abb
+b
+c <- c(b)
+c
