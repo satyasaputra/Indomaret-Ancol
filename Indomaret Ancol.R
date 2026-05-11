@@ -17,3 +17,7 @@ b <- month.abb
 b
 c <- c(b)
 c
+
+for (i in 1:5) {
+  print(i)
+}
