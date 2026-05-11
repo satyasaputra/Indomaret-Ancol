@@ -21,3 +21,7 @@ c
 for (i in 1:5) {
   print(i)
 }
+
+##ini tambahan dari github
+x <- c(1,2,3,4,5,6,7)
+print(x)
