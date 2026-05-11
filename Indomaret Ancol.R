@@ -7,3 +7,4 @@ mean(mtcars$mpg)
 
 boxplot(mtcars$mpg)
 plot(mtcars$mpg)
+hist(mtcars$mpg)
