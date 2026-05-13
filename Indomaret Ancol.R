@@ -26,6 +26,8 @@ for (i in 1:5) {
 d <- 14*15
 d
 
-##tambah code
+##tambah code untuk branch
+e <- 14*72
+e
 
 
