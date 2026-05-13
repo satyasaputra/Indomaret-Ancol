@@ -22,4 +22,6 @@ for (i in 1:5) {
   print(i)
 }
 
-
+##tambah code untuk commit
+d <- 14*15
+d
