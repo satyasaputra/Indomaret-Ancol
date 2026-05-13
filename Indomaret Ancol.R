@@ -25,3 +25,7 @@ for (i in 1:5) {
 ##tambah code untuk commit
 d <- 14*15
 d
+
+##code berbeda untuk dimerge
+f <- 1+17
+f
