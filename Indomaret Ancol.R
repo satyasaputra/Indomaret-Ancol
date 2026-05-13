@@ -26,4 +26,6 @@ for (i in 1:5) {
 d <- 14*15
 d
 
+##tambah code
+
 
