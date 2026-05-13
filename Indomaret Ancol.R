@@ -37,4 +37,11 @@ e
 
 
 >>>>>>> cabang-baru
+<<<<<<< HEAD
 y <- 200
+=======
+
+##tambahan code lagi
+x <- 100
+print(x)
+>>>>>>> branch1
