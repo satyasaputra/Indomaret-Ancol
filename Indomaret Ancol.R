@@ -37,3 +37,7 @@ e
 
 
 >>>>>>> cabang-baru
+
+##tambahan code lagi
+x <- 100
+print(x)
