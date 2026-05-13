@@ -45,3 +45,7 @@ y <- 200
 x <- 100
 print(x)
 >>>>>>> branch1
+
+##tambahan code yang diedit di github\
+z <- 450
+print(z)
