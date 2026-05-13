@@ -26,6 +26,14 @@ for (i in 1:5) {
 d <- 14*15
 d
 
+<<<<<<< HEAD
 ##code berbeda untuk dimerge
 f <- 1+17
 f
+=======
+##tambah code untuk branch
+e <- 14*72
+e
+
+
+>>>>>>> cabang-baru
